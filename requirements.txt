@@ -1,0 +1,3 @@
+pandas
+matplotlib
+#jupyter # uncomment if you plan to use jupyter lab
