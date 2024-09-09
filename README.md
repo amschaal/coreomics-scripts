@@ -19,3 +19,9 @@ pip install -r requirements.txt
 ```
 jupyter lab
 ```
+
+### If running regular python scripts, ensure the virual enviroment is activated first:
+```
+source .venv/bin/activate
+python analyse_sample_count.py
+```
